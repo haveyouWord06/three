@@ -11,7 +11,7 @@ uuidthree=9c51d58a-3133-42e1-a2b1-13e6e6a72f5a
 uuidfour=320e5dff-dcc9-477c-b278-42edc1d80f06
 uuidfive=bf6800ed-59a6-4b1c-84b1-df5051a7860c
 mypath=/hold-fsda3fd
-myport=8000
+myport=8080
 
 
 # Write V2Ray configuration
